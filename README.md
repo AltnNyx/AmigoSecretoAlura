@@ -29,6 +29,7 @@ Fotos de la aplicación en uso:
   ![image](https://github.com/user-attachments/assets/7a557386-1285-4cd8-bac1-aea126cf1813)
 
   Foto del sorteo:
+  
   ![image](https://github.com/user-attachments/assets/b3ac1cf6-dd68-4607-9124-98d1348dee8a)
 
   Foto de alerta sobre no dejar el nombre vacío:
