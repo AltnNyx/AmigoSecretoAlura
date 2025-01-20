@@ -30,7 +30,12 @@ Fotos de la aplicación en uso:
 
   Foto del sorteo:
   
-  ![image](https://github.com/user-attachments/assets/b3ac1cf6-dd68-4607-9124-98d1348dee8a)
+  ![image](https://github.com/user-attachments/assets/394c1aee-127e-4371-891a-fc4c977006df)
+  ![image](https://github.com/user-attachments/assets/6e11cf17-4f14-4fc9-845e-8d3f834fe373)
+  ![image](https://github.com/user-attachments/assets/7c7b4767-1d47-4731-9eed-921bc694d252)
+
+  Foto de alerta sobre que todos los nombres han sido sorteados:
+  ![image](https://github.com/user-attachments/assets/cc4df80d-7104-4a2c-b9c0-bc8e71137495)
 
   Foto de alerta sobre no dejar el nombre vacío:
   ![image](https://github.com/user-attachments/assets/5c92e4bb-9a0c-46d3-a86e-da41654658d9)
