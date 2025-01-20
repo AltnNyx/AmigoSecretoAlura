@@ -35,7 +35,7 @@ Fotos de la aplicación en uso:
   ![image](https://github.com/user-attachments/assets/7c7b4767-1d47-4731-9eed-921bc694d252)
 
   Foto de alerta sobre que todos los nombres han sido sorteados:
-  ![image](https://github.com/user-attachments/assets/cc4df80d-7104-4a2c-b9c0-bc8e71137495)
+  ![image](https://github.com/user-attachments/assets/3cdc3540-02c5-4209-9e06-c28e42ae669f)
 
   Foto de alerta sobre no dejar el nombre vacío:
   ![image](https://github.com/user-attachments/assets/5c92e4bb-9a0c-46d3-a86e-da41654658d9)
